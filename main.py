@@ -1,1 +1,1 @@
-val = 'master --> commit #1'
+val = 'branch_1 --> commit #2'
