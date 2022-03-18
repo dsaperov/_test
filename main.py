@@ -1,1 +1,1 @@
-val = 'branch_1 --> commit #10'
+val = 'branch_3 --> branch_1'
